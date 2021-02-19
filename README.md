@@ -6,7 +6,7 @@ así que esto es lo mismo que intenta iniciar sesión en la cuenta de alguien mi
 </p>
 
 
-**INSTALACION DE FB-Rec***
+***INSTALACION DE FB-Rec***
 
 $ apt-get install python git
 
