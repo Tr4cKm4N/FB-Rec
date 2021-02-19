@@ -12,7 +12,7 @@ $ cd FB-Rec
 
 $ python fbbrute.py
 
-#SO PROBADOS
+# S.O PROBADOS
 
 -Kali Linux
 
