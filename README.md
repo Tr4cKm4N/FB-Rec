@@ -13,6 +13,9 @@ $ cd FB-Rec
 $ python fbbrute.py
 
 #SO PROBADOS
+
 -Kali Linux
+
 -Parrot
+
 -Ubuntu
