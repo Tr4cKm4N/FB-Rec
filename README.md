@@ -11,3 +11,8 @@ $ git clone https://github.com/Tr4cKm4N/FB-Rec
 $ cd FB-Rec
 
 $ python fbbrute.py
+
+#SO PROBADOS
+-Kali Linux
+-Parrot
+-Ubuntu
