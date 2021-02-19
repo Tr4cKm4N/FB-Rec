@@ -28,6 +28,7 @@ userid = raw_input("    [+] Enter [Email|N°Telefono|NombreUsuario|ID]: ")
 try:
 	passlist = raw_input("[*] Establer la ruta: ")
 	if os.path.exists(passlist) != False:
+		os.system("clear")
 		print(__banner__)
 		print(" [+] Account to crack : {}".format(userid))
 		print(" [+] Loaded : {}".format(len(open(passlist,"r").read().split("\n"))))
